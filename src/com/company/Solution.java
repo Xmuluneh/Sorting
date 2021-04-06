@@ -30,3 +30,7 @@ public class Solution {
 
     }
 }
+ /*
+or using regex
+ return pin.matches("[0-9]{4}|[0-9]{6}");
+                */
